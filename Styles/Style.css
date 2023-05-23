@@ -1,4 +1,12 @@
-body {
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Document title</title>
+  </head>
+</html>
+  body {
     max-width: 800px;
     margin: 0 auto;
   }
@@ -22,3 +30,9 @@ body {
   p, li, dd, dt, address {
     line-height: 1.5;
   }
+  <p>Contact the author of this page:</p>
+
+<address>
+  <a href="mailto:Kindsvatte1kj@alma.edu">kindsvatte1kj@alma.edu</a><br>
+  <a href="tel:+123133050858">(231) 330-5085</a>
+</address>
