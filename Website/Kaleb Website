@@ -9,67 +9,67 @@
   </head>
 
   <body>
-    <!-- Here is my main header that is used across all the pages of our website -->
+    <!-- main header that is used to navigate my website -->
 
     <nav>
       <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Family</a></li>
-        <li><a href="#">Projects</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="https://www.facebook.com/photo/?fbid=1731596646862708&set=pb.100000371688477.-2207520000.">Home</a></li>
+        <li><a href="https://www.facebook.com/photo.php?fbid=10227389445234082&set=pb.1600291775.-2207520000.&type=3">Family</a></li>
+        <li><a href="https://share.snapchat.com/m/XaPJUgQT?share_id=StHS4ywhTNyOct3RFmcdPw&locale=en_US">Projects</a></li>
+        <li><a href="Kaleb Kindsvatter, Phone: 231-330-5085, Email: Kindsvatte1kj@alma.edu">Contact</a></li>
       </ul>
 
-      <!-- A Search form is another common non-linear way to navigate through a website. -->
-
       <form>
-        <input type="search" name="q" placeholder="Search query">
+        <input type="search" name="q" placeholder="Search">
         <input type="submit" value="Go!">
       </form>
     </nav>
 
-    <!-- Here is my page's main content -->
+    <!-- main content -->
     <main>
 
-      <!-- It contains an article -->
-      <article>
+      <!-- It contains a description of my life -->
+      <description>
         <h1>Kaleb Kindsvatter</h1>
-
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Donec a diam lectus. Set sit amet ipsum mauris. Maecenas congue ligula as quam viverra nec consectetur ant hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur.</p>
 
         <h2>Growing Up</h2>
 
+        <p>I grew up in East Lansing, MI. When my dad retired in 2014 we moved up to our cabin in Indain River, MI full time. I attended Petoskey Schools and played sports for them as well. I started racing snowmobiles at 4 years old and continued to race after the move. I retired from racing at the age of 16. I am very thankful for that experience because it allowed me to be mechanically inclined my whole life.</p>
+
+        <p>I grew up with many allergies and asthma, they were a pretty big part of my life. When I was very little all I could eat was water and rice. By the age of 12 I as able to finally be able to drink milk and eggs but no nuts. I am still allergic to nuts. I could still play sports but I had to have my rescue inhaler close by incase my asthma acted up.</p>
+
         <h2>Present</h2>
 
-        <p>Donec ut librero sed accu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aenean ut gravida lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor.</p>
+        <p>Right now I am finishing up my time at Alma College. I am in the 3-2 program and in the fall I will be attending Ferris State. My family just got a new dog as well and her name is Willow</p>
 
-        <p>Pelientesque auctor nisi id magna consequat sagittis. Curabitur dapibus, enim sit amet elit pharetra tincidunt feugiat nist imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros.</p>
+        <p>It looks like I will be having a very busy summer. Some of the things I have to do is work, attend one of my best friends bachelor party, host a family reunion, go camping at least twice, clean up our 10 acres on Beaver Island, celebrate my 21st birthday, and football camp at Ferris State. </p>
 
         <h2>Future Plans</h2>
 
-        <p>Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum soclis natoque penatibus et manis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.</p>
+        <p></p>
 
-        <p>Vivamus fermentum semper porta. Nunc diam velit, adipscing ut tristique vitae sagittis vel odio. Maecenas convallis ullamcorper ultricied. Curabitur ornare, ligula semper consectetur sagittis, nisi diam iaculis velit, is fringille sem nunc vet mi.</p>
-      </article>
+        <p></p>
+      </description>
 
-      <!-- the aside content can also be nested within the main content -->
+      <!-- aside content -->
       <aside>
-        <h1>Related</h1>
+        <h1>Hobbies</h1>
 
         <ul>
-          <li><a href="#">Oh I do like to be beside the seaside</a></li>
-          <li><a href="#">Oh I do like to be beside the sea</a></li>
-          <li><a href="#">Although in the North of England</a></li>
-          <li><a href="#">It never stops raining</a></li>
-          <li><a href="#">Oh well...</a></li>
+          <li><a href="https://www.facebook.com/photo?fbid=10226977259969708&set=pb.1600291775.-2207520000.""https://www.facebook.com/photo.php?fbid=10226977258569673&set=pb.1600291775.-2207520000.&type=3">Snowmobiling</a></li>
+          <li><a href="https://share.snapchat.com/m/_bGvd0_x?share_id=PKmeduMKQEWag4Y5Pdn8wQ&locale=en_US""https://share.snapchat.com/m/SwnrkU7s?share_id=sjr6R76uSEyXKaLeCbAKXg&locale=en_US">Offroad</a></li>
+          <li><a href="https://www.facebook.com/photo/?fbid=10226687327921588&set=a.2714916764364""https://www.facebook.com/photo?fbid=10225398561343229&set=a.2714916764364">Water</a></li>
+          <li><a href="https://www.facebook.com/photo/?fbid=10227461020263413&set=pcb.10227461052904229""https://www.facebook.com/photo?fbid=10227461020743425&set=pcb.10227461052904229">Dogs</a></li>
+          <li><a href="https://www.facebook.com/photo.php?fbid=10225329115207119&set=pb.1600291775.-2207520000.&type=3">Friends</a></li>
         </ul>
       </aside>
 
     </main>
 
-    <!-- And here is my main footer that is used across all the pages of my website -->
+    <!-- main footer -->
 
     <footer>
-      <p>©Copyright 2050 by Kaleb Kindsvatter. All rights reversed.</p>
+      <p>©Copyright 2023 by Kaleb Kindsvatter. All rights reversed.</p>
     </footer>
 
   </body>
