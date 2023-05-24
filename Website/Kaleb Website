@@ -6,6 +6,7 @@
     <title>My page title</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="style.css">
+    <head bgcolor=”blue”></head>
   </head>
 
   <body>
@@ -54,6 +55,7 @@
       <!-- aside content -->
       <aside>
         <h1>Hobbies</h1>
+        <aside bgcolor=”Blue”></aside>
 
         <ul>
           <li><a href="https://www.facebook.com/photo?fbid=10226977259969708&set=pb.1600291775.-2207520000.""https://www.facebook.com/photo.php?fbid=10226977258569673&set=pb.1600291775.-2207520000.&type=3">Snowmobiling</a></li>
